@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 With 20+ years of progressively responsible IT experience coupled with 13+ years in a university setting, I have the key following strengths:
 
-1. In-depth knowledge of computer technology including embedded systems and IoT which has resulted in 5 registered patents.
+1. In-depth knowledge of computer technology including machine learning, blockchain, embedded systems, docker, kubernetes, and IoT.
 
 2. Expertise leading the development of sophisticated wireless communication solutions and network-management infrastructures 
    including network-management software for a high-performance FDDI backbone switch GIGAswitch/FDDI, which has been one of the 
