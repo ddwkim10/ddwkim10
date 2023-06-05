@@ -11,7 +11,7 @@ ddwkim10/ddwkim10 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-With 20+ years of progressively responsible IT experience coupled with 13 of those years in a university setting, I have the key following strengths:
+With 20+ years of progressively responsible IT experience coupled with 13+ years in a university setting, I have the key following strengths:
 
 1. In-depth knowledge of computer technology including embedded systems and IoT which has resulted in 5 registered patents.
 
